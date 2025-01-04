@@ -1,15 +1,32 @@
 ## Olá! Eu sou a Janaina 👋
-- 👩‍🏫 Eu sou professora de programação e também gosto de criar jogos 🎮
-- 🌱 Atualmente estou estudando Python e aprimorando o meu conhecimento em Lua com aplicação no Roblox Studio.
+- 👩‍🏫 Eu sou professora de programação e também gosto de criar jogos 🎮 (estudo Lua com aplicação no Roblox Studio)
+- 🌱 Atualmente estou estudando Python e aprimorando o meu conhecimento na área de dados.
 
 ##
 ### Linguagens de programação:
 <div style="display: inline_block">
+  <img align="center" alt="JavaScript icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Lua icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
+  <img align="center" alt="Lua icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/lua/lua-original.svg"> 
+</div> 
+<br>
+
+##
+### Tecnologias:
+<div style="display: inline_block">
   <img align="center" alt="HTML icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="CSS icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img align="center" alt="JavaScript icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Lua icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original-wordmark.svg">
- 
+  <img align="center" alt="React Native icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/react/react-original.svg">
+  <img align="center" alt="Numpy icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/numpy/numpy-original.svg">
+  <img align="center" alt="Pandas icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/pandas/pandas-original.svg">
+  <img align="center" alt="Matplotlib icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/matplotlib/matplotlib-original.svg">
+  <img align="center" alt="Firebase icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/firebase/firebase-original.svg">
+  <img align="center" alt="P5 icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/p5js/p5js-original.svg">
+  <img align="center" alt="Trello icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/trello/trello-original.svg">
+  <img align="center" alt="NPM icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/npm/npm-original-wordmark.svg">
+  <img align="center" alt="Git icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/git/git-original.svg">
+  <img align="center" alt="Visual Studio icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/vscode/vscode-original.svg">
+	
 </div> 
 <br>
 
@@ -17,6 +34,12 @@
 ### Bootcamps e Certificados
 <a href="https://web.dio.me/track/potencia-tech-ifood-programacao-do-zero" target="_blank"><img src="https://hermes.dio.me/tracks/9388e8d8-00d5-4007-a7c9-357324fe73fa.png" height="50"></a>
 <a href="https://web.dio.me/track/potencia-tech-ifood-desenvolvimento-de-jogos" target="_blank"><img src="https://hermes.dio.me/tracks/83f8150a-6429-4c1a-9207-d5bff610f647.png" height="50"></a>
+<a href="https://web.dio.me/track/potencia-tech-ifood-desenvolvimento-de-jogos" target="_blank"><img src="https://github.com/user-attachments/assets/0483d6e7-b254-48e2-af6b-25053ee0d5c4" height="50"></a>
+<a href="[https://web.dio.me/track/bootcamp-squadio](https://web.dio.me/track/formacao-lua-developer)" target="_blank"><img src="https://assets.dio.me/LD8fz8Qat_uVi20XxnO-02HYemLdoCmBZSx4LyUzMog/f:webp/h:120/q:80/L3RyYWNrcy8wMTM2NTE4Yy02OGQ2LTQxOTgtYmRiZS02ZDk4MmMzYTEyNjEucG5n" height="50"></a>
+
+
+
+
 
 ##
 
