@@ -64,10 +64,11 @@
  <!-- <img height="180" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=profa-janaina&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF"> -->
 
 <!-- ![Snake animation](https://github.com/profa-janaina/profa-janaina/blob/output/github-contribution-grid-snake.svg) -->
+<!--
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/profa-janaina/profa-janaina/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/profa-janaina/profa-janaina/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/profa-janaina/profa-janaina/output/pacman-contribution-graph.svg">
 </picture>
+-->
 
-###
